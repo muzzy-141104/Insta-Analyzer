@@ -1,0 +1,29 @@
+[
+  {
+    "sessionid": "79162835952%3ALRSoAM1JXg8QZS%3A16%3AAYgVipqH25AIw_nRLKKpd9GyP_jCI-pRyK2rP5y9hQ",
+    "username": "rocky_ai007",
+    "created_at": 1765244126.2529738,
+    "last_used": 1765246444.7799268,
+    "success_count": 5,
+    "failure_count": 0,
+    "is_active": true
+  },
+  {
+    "sessionid": "PASTE_SESSIONID_HERE",
+    "username": null,
+    "created_at": 1765246375.1108315,
+    "last_used": 1765246407.0195765,
+    "success_count": 0,
+    "failure_count": 1,
+    "is_active": true
+  },
+  {
+    "sessionid": "79162835952%3ALRSoAM1JXg8QZS%3A16%3AAYiY18YfOSrHLjk_Kpl2O6kmSVQkPb_XyCIUWB4jjQ",
+    "username": "rocky_ai007",
+    "created_at": 1765246391.6275156,
+    "last_used": 1765246410.961307,
+    "success_count": 1,
+    "failure_count": 0,
+    "is_active": true
+  }
+]

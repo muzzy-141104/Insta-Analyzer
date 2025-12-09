@@ -1,0 +1,306 @@
+{
+  "profile_information": {
+    "username": "therock",
+    "display_name": "Dwayne Johnson",
+    "bio": "Girl dad, storyteller, tequila. \nNot always in that order.",
+    "is_verified": true,
+    "is_business": false,
+    "profile_pic_url": "https://scontent-maa3-1.cdninstagram.com/v/t51.2885-19/11850309_1674349799447611_206178162_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-maa3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFV1Q2t8REr6r3kTPWxpmyjwE7bXE-uiQS2TiO5VPzpwOmr-Bl-9eiz4dWPMIGHx4U&_nc_ohc=UDppz99W0fwQ7kNvwF1GN71&_nc_gid=FsLyKHQ4wegCKoWz5d-CaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfkGBBW0XlvSoWlkmoW4njk1bPzq6nErNspmoYluw2xzfw&oe=693D6D44&_nc_sid=8b3546",
+    "external_url": "http://therock.komi.io/",
+    "category": "Unknown (API error)",
+    "location": "Unknown (API error)"
+  },
+  "engagement_metrics": {
+    "followers": 391322418,
+    "following": 249,
+    "total_posts": 8246,
+    "average_likes": 483875.1,
+    "average_comments": 3119.0,
+    "average_views": 2135682.0,
+    "engagement_rate": 0.12,
+    "posts_per_week": 0.95
+  },
+  "content_analysis": {
+    "content_type_distribution": {
+      "Video": 22,
+      "Photo": 8
+    },
+    "top_hashtags": [
+      {
+        "tag": "thesmashingmachine",
+        "count": 3
+      },
+      {
+        "tag": "prestigejunkie",
+        "count": 3
+      },
+      {
+        "tag": "thetreatment",
+        "count": 2
+      },
+      {
+        "tag": "jumanji",
+        "count": 2
+      },
+      {
+        "tag": "startofproduction",
+        "count": 2
+      },
+      {
+        "tag": "losangeles",
+        "count": 2
+      },
+      {
+        "tag": "cheatmealsunday",
+        "count": 1
+      },
+      {
+        "tag": "12daysofmana",
+        "count": 1
+      },
+      {
+        "tag": "criticschoice",
+        "count": 1
+      },
+      {
+        "tag": "trailblazeraward",
+        "count": 1
+      }
+    ],
+    "top_mentions": [
+      {
+        "user": "papatui_",
+        "count": 4
+      },
+      {
+        "user": "kateyrichtalking",
+        "count": 2
+      },
+      {
+        "user": "criticschoice",
+        "count": 2
+      },
+      {
+        "user": "lucyliu",
+        "count": 2
+      },
+      {
+        "user": "theelvismitchell",
+        "count": 2
+      },
+      {
+        "user": "walmart",
+        "count": 2
+      },
+      {
+        "user": "teremana",
+        "count": 2
+      },
+      {
+        "user": "variety",
+        "count": 2
+      },
+      {
+        "user": "dandaddario",
+        "count": 2
+      },
+      {
+        "user": "bowedtie",
+        "count": 1
+      }
+    ],
+    "brand_collaborations": [
+      {
+        "post_url": "https://www.instagram.com/p/DJCAM2oxl1l/",
+        "date": "2025-04-29",
+        "caption_snippet": "Excited to share the official trailer for Benny Safdie’s THE SMASHING MACHINE, starring Dwayne Johns"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DR43PJfCbAh/",
+        "date": "2025-12-05",
+        "caption_snippet": "I know this story may surprise you, but one of our inspirations for the making of THE SMASHING MACHI"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DR42gMoCYrg/",
+        "date": "2025-12-05",
+        "caption_snippet": "Loved it! Had a great time and conversation with @kateyrichtalking + @theankler \non #PrestigeJunkie "
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DR2LFzDES89/",
+        "date": "2025-12-04",
+        "caption_snippet": "Appreciate everyone’s positive feedback from this engaging conversation I had with @TheElvisMitchell"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DRshHs7EjIj/",
+        "date": "2025-12-01",
+        "caption_snippet": "Proud of our little ones for expressing their gratitude in such awesome and loving ways. \nProud of o"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DRhrM5Yibvg/",
+        "date": "2025-11-26",
+        "caption_snippet": "Spectacular and fun night at the Governor’s Awards - great to kick it with ol’ friends and inspiring"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DRchTwMCVQF/",
+        "date": "2025-11-24",
+        "caption_snippet": "Congratulations my friend, @lucyliu on your well earned TRAILBLAZER AWARD from our @criticschoice AA"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DRWCE96Edz4/",
+        "date": "2025-11-22",
+        "caption_snippet": "Something tells me we’re not in Jumanji anymore… \n\nGreat to have these crazy avatar adventurers back"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DRBZRjrkWPk/",
+        "date": "2025-11-14",
+        "caption_snippet": "Thank you to the amazing students at @chapmanu @dodgecollege & @scott_feinberg for this amazing conv"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DQ-5TFNkQPY/",
+        "date": "2025-11-13",
+        "caption_snippet": "A very cool and fun day with my SMASHING MACHINE director Benny Safdie, and costar Emily Blunt “swea"
+      }
+    ],
+    "total_brand_posts": 10
+  },
+  "trend_analysis": {
+    "viral_video_percentage": 13.33,
+    "viral_posts_count": 4,
+    "engagement_timeline": [
+      {
+        "date": "2025-12-08",
+        "engagement_rate": 0.01,
+        "likes": 30258,
+        "comments": 364
+      },
+      {
+        "date": "2025-12-08",
+        "engagement_rate": 0.04,
+        "likes": 136279,
+        "comments": 1673
+      },
+      {
+        "date": "2025-12-07",
+        "engagement_rate": 0.06,
+        "likes": 230179,
+        "comments": 4053
+      },
+      {
+        "date": "2025-12-05",
+        "engagement_rate": 0.01,
+        "likes": 29104,
+        "comments": 506
+      },
+      {
+        "date": "2025-12-05",
+        "engagement_rate": 0.01,
+        "likes": 24307,
+        "comments": 313
+      },
+      {
+        "date": "2025-12-04",
+        "engagement_rate": 0.01,
+        "likes": 53823,
+        "comments": 735
+      },
+      {
+        "date": "2025-12-04",
+        "engagement_rate": 0.01,
+        "likes": 30122,
+        "comments": 480
+      },
+      {
+        "date": "2025-12-04",
+        "engagement_rate": 0.01,
+        "likes": 32716,
+        "comments": 465
+      },
+      {
+        "date": "2025-12-03",
+        "engagement_rate": 0.01,
+        "likes": 24660,
+        "comments": 456
+      },
+      {
+        "date": "2025-12-01",
+        "engagement_rate": 0.02,
+        "likes": 61264,
+        "comments": 1527
+      }
+    ],
+    "top_performing_posts": [
+      {
+        "url": "https://www.instagram.com/p/DRWCE96Edz4/",
+        "date": "2025-11-22T09:19:50+05:30",
+        "likes": 4135018,
+        "comments": 9397,
+        "views": 0,
+        "type": "Photo",
+        "caption": "Something tells me we’re not in Jumanji anymore… \n\nGreat to have these crazy avatar adventurers back together again! 🎮 🗺️ \n\nSee ya in the theaters 🎭 \n\n#Jumanji \n#StartOfProduction \n#LosAngeles \n\n@hhgarcia41 📸",
+        "hashtags": [
+          "jumanji",
+          "startofproduction",
+          "losangeles"
+        ],
+        "mentions": [],
+        "followers_at_time": 391322418
+      },
+      {
+        "url": "https://www.instagram.com/p/DRKi_5PCX1f/",
+        "date": "2025-11-17T22:27:38+05:30",
+        "likes": 2559923,
+        "comments": 16871,
+        "views": 12152957,
+        "type": "Video",
+        "caption": "7 ~ 1🌀 ~ 26 \n\n🪝",
+        "hashtags": [],
+        "mentions": [],
+        "followers_at_time": 391322418
+      },
+      {
+        "url": "https://www.instagram.com/p/DRr6cGeAKVW/",
+        "date": "2025-11-30T21:24:13+05:30",
+        "likes": 2212187,
+        "comments": 8860,
+        "views": 12475788,
+        "type": "Video",
+        "caption": "Happiest of birthdays to the one and only @karengillan 🎂❤️👏🏾👏🏾 so cool we could celebrate you on your special day from our set of Jumanji. I was hoping the cake would make Kevin explode 💥 like he does in our film - but no such luck 💁🏽‍♂️ \n\nHBD KG!! We love ya 🤎🥂",
+        "hashtags": [],
+        "mentions": [
+          "karengillan"
+        ],
+        "followers_at_time": 391322418
+      },
+      {
+        "url": "https://www.instagram.com/p/DRKkv0Kj2ze/",
+        "date": "2025-11-17T22:31:54+05:30",
+        "likes": 1679294,
+        "comments": 4588,
+        "views": 0,
+        "type": "Photo",
+        "caption": "7 ~ 1🌀 ~ 26 \n\n🪝",
+        "hashtags": [],
+        "mentions": [],
+        "followers_at_time": 391322418
+      },
+      {
+        "url": "https://www.instagram.com/p/DROSedKkTUt/",
+        "date": "2025-11-19T09:21:57+05:30",
+        "likes": 795833,
+        "comments": 9128,
+        "views": 4267217,
+        "type": "Video",
+        "caption": "This one’s for you, Robin 🎲🤎🥃\n\n#jumanji \n#startofproduction \n#losangeles",
+        "hashtags": [
+          "jumanji",
+          "startofproduction",
+          "losangeles"
+        ],
+        "mentions": [],
+        "followers_at_time": 391322418
+      }
+    ]
+  },
+  "scraped_at": "2025-12-09T09:41:01.725454",
+  "posts_analyzed": 30
+}

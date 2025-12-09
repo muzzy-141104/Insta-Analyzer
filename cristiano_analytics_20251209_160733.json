@@ -1,0 +1,252 @@
+{
+  "profile_information": {
+    "username": "cristiano",
+    "display_name": "Cristiano Ronaldo",
+    "bio": "",
+    "is_verified": true,
+    "is_business": false,
+    "profile_pic_url": "https://scontent-maa3-1.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-maa3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHIM4XIB7AylDOnTpmdLFq9UNivFyPiC4nueVehHhgRnpKmlpTWRTAhX392od_qbSc&_nc_ohc=544McRaexc8Q7kNvwFREccG&_nc_gid=ef42JiHRNXJP0hKlQRNxgw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfkGe_Nusopvca_2ntmBVbuAYYUP3l2Wie7GJr04kRhLuw&oe=693DC65E&_nc_sid=8b3546",
+    "external_url": "http://perplexity.ai/ronaldo",
+    "category": "Unknown (API error)",
+    "location": "Unknown (API error)"
+  },
+  "engagement_metrics": {
+    "followers": 668980536,
+    "following": 623,
+    "total_posts": 3979,
+    "average_likes": 5201768.57,
+    "average_comments": 77061.87,
+    "average_views": 19095900.9,
+    "engagement_rate": 0.79,
+    "posts_per_week": 3.89
+  },
+  "content_analysis": {
+    "content_type_distribution": {
+      "Video": 10,
+      "Photo": 20
+    },
+    "top_hashtags": [
+      {
+        "tag": "7heselection",
+        "count": 2
+      },
+      {
+        "tag": "foreverforward",
+        "count": 1
+      },
+      {
+        "tag": "sponsored",
+        "count": 1
+      },
+      {
+        "tag": "cr7fragances",
+        "count": 1
+      },
+      {
+        "tag": "cr7energy",
+        "count": 1
+      }
+    ],
+    "top_mentions": [
+      {
+        "user": "perplexity",
+        "count": 1
+      },
+      {
+        "user": "tmobile",
+        "count": 1
+      },
+      {
+        "user": "cristiano",
+        "count": 1
+      },
+      {
+        "user": "whoop",
+        "count": 1
+      },
+      {
+        "user": "avacr7",
+        "count": 1
+      },
+      {
+        "user": "georginagio",
+        "count": 1
+      },
+      {
+        "user": "piersmorgan",
+        "count": 1
+      },
+      {
+        "user": "alnassr",
+        "count": 1
+      }
+    ],
+    "brand_collaborations": [
+      {
+        "post_url": "https://www.instagram.com/p/DR2Vz63CPVY/",
+        "date": "2025-12-04",
+        "caption_snippet": "Winners never stop learning. Never stop asking. I use @perplexity to get ahead. \n\nPerplexity.ai/rona"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DRnOEjME21V/",
+        "date": "2025-11-29",
+        "caption_snippet": "Ronaldo vs My Goalie Robot. Thanks to @tmobile for helping me get my latest invention ready to take "
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DRciq2cFK0i/",
+        "date": "2025-11-24",
+        "caption_snippet": "Low inflammation. Efficient oxygen delivery. Metabolic precision. Cristiano Ronaldo’s biomarkers rev"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DRPzD6oCLFZ/",
+        "date": "2025-11-19",
+        "caption_snippet": "Thank you Mr. President for your invitation and for the warm welcome you and the First Lady gave me "
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DQw7ZjRCHnV/",
+        "date": "2025-11-07",
+        "caption_snippet": "Unleash your inner champion.\nThe new CR7 Energy captures an unstoppable spirit in every spray.\nAre y"
+      },
+      {
+        "post_url": "https://www.instagram.com/p/DP0pqAviAlP/",
+        "date": "2025-10-15",
+        "caption_snippet": "Não é segredo que representar a Seleção significa muito para mim e por isso estou muito orgulhoso de"
+      }
+    ],
+    "total_brand_posts": 6
+  },
+  "trend_analysis": {
+    "viral_video_percentage": 6.67,
+    "viral_posts_count": 2,
+    "engagement_timeline": [
+      {
+        "date": "2025-12-08",
+        "engagement_rate": 0.05,
+        "likes": 312251,
+        "comments": 5537
+      },
+      {
+        "date": "2025-12-06",
+        "engagement_rate": 0.56,
+        "likes": 3700160,
+        "comments": 35801
+      },
+      {
+        "date": "2025-12-04",
+        "engagement_rate": 0.12,
+        "likes": 783513,
+        "comments": 40434
+      },
+      {
+        "date": "2025-11-30",
+        "engagement_rate": 0.17,
+        "likes": 1109980,
+        "comments": 14679
+      },
+      {
+        "date": "2025-11-29",
+        "engagement_rate": 0.34,
+        "likes": 2262101,
+        "comments": 15819
+      },
+      {
+        "date": "2025-11-28",
+        "engagement_rate": 0.67,
+        "likes": 4468990,
+        "comments": 26914
+      },
+      {
+        "date": "2025-11-27",
+        "engagement_rate": 0.43,
+        "likes": 2876453,
+        "comments": 16663
+      },
+      {
+        "date": "2025-11-24",
+        "engagement_rate": 0.14,
+        "likes": 952259,
+        "comments": 11809
+      },
+      {
+        "date": "2025-11-24",
+        "engagement_rate": 2.62,
+        "likes": 16891258,
+        "comments": 607170
+      },
+      {
+        "date": "2025-11-22",
+        "engagement_rate": 0.65,
+        "likes": 4330447,
+        "comments": 36711
+      }
+    ],
+    "top_performing_posts": [
+      {
+        "url": "https://www.instagram.com/p/DRPzD6oCLFZ/",
+        "date": "2025-11-19T23:13:11+05:30",
+        "likes": 28327587,
+        "comments": 399032,
+        "views": 0,
+        "type": "Photo",
+        "caption": "Thank you Mr. President for your invitation and for the warm welcome you and the First Lady gave me and my future wife, @georginagio. Each of us has something meaningful to give, and I stand ready to do my part as we inspire new generations to build a future defined by courage, responsibility and lasting peace.",
+        "hashtags": [],
+        "mentions": [
+          "georginagio"
+        ],
+        "followers_at_time": 668980536
+      },
+      {
+        "url": "https://www.instagram.com/p/DRaV7mnAGq7/",
+        "date": "2025-11-24T01:30:52+05:30",
+        "likes": 16891258,
+        "comments": 607170,
+        "views": 77697586,
+        "type": "Video",
+        "caption": "Best caption wins! 🤔",
+        "hashtags": [],
+        "mentions": [],
+        "followers_at_time": 668980536
+      },
+      {
+        "url": "https://www.instagram.com/p/DP9rRaNgBFn/",
+        "date": "2025-10-19T01:47:24+05:30",
+        "likes": 9761761,
+        "comments": 149966,
+        "views": 0,
+        "type": "Photo",
+        "caption": "Success is not an accident 🟡🔵",
+        "hashtags": [],
+        "mentions": [],
+        "followers_at_time": 668980536
+      },
+      {
+        "url": "https://www.instagram.com/p/DRPZ1xokeMN/",
+        "date": "2025-11-19T19:34:56+05:30",
+        "likes": 9636149,
+        "comments": 195188,
+        "views": 58235333,
+        "type": "Video",
+        "caption": "Two GOATS. \n\nCR7 x 45/47 🔥",
+        "hashtags": [],
+        "mentions": [],
+        "followers_at_time": 668980536
+      },
+      {
+        "url": "https://www.instagram.com/p/DP7EgB7AKMw/",
+        "date": "2025-10-18T01:30:07+05:30",
+        "likes": 7757239,
+        "comments": 76156,
+        "views": 0,
+        "type": "Photo",
+        "caption": "Working hard 💪🏽",
+        "hashtags": [],
+        "mentions": [],
+        "followers_at_time": 668980536
+      }
+    ]
+  },
+  "scraped_at": "2025-12-09T16:07:33.821361",
+  "posts_analyzed": 30,
+  "posts_failed": 0,
+  "total_requests": 31
+}
