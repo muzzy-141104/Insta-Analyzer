@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 from pathlib import Path
 import glob
 from main import InstagramAnalyticsScraper
+from analytics import InstagramAnalytics
 import time
 
 # Page configuration
@@ -543,7 +544,8 @@ def main():
                         analytics_data = st.session_state.scraper.scrape_profile(
                             target_username,
                             max_posts=max_posts,
-                            delay_between_posts=delay
+                            delay_between_posts=delay,
+                            auto_continue=True  # Skip interactive prompt for Streamlit deployment
                         )
                     
                     if analytics_data:

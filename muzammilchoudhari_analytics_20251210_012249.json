@@ -1,0 +1,40 @@
+{
+  "profile_information": {
+    "username": "muzammilchoudhari",
+    "display_name": "Muzammil Choudhari",
+    "bio": "",
+    "is_verified": false,
+    "is_business": false,
+    "profile_pic_url": "https://instagram.fkul2-4.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fkul2-4.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QFYDSkYLJvdmh5e8G5vR7DUMzTwY-vb9WTJDICevZcw8Rg8VxPvsYfFQlDXtUYZ9inV7sRQlOG_LgOCuviXQOt4&_nc_ohc=AY1dcOt6cokQ7kNvwHaf95D&_nc_gid=zX0oHwokShAkKvN5RDkFWw&edm=AEsR1pMBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Afkkw0_HUQMdpLdQ2DqQ6HGn1yljl1r7__w3tQxdLYO1Kw&oe=693E3AAA&_nc_sid=e2f88a",
+    "external_url": null,
+    "category": "Unknown (Gemini API key not provided)",
+    "location": "Unknown (Gemini API key not provided)"
+  },
+  "engagement_metrics": {
+    "followers": 5,
+    "following": 1,
+    "total_posts": 0,
+    "average_likes": 0,
+    "average_comments": 0,
+    "average_views": 0,
+    "engagement_rate": 0,
+    "posts_per_week": 0
+  },
+  "content_analysis": {
+    "content_type_distribution": {},
+    "top_hashtags": [],
+    "top_mentions": [],
+    "brand_collaborations": [],
+    "total_brand_posts": 0
+  },
+  "trend_analysis": {
+    "viral_video_percentage": 0,
+    "viral_posts_count": 0,
+    "engagement_timeline": [],
+    "top_performing_posts": []
+  },
+  "scraped_at": "2025-12-10T01:22:49.292160",
+  "posts_analyzed": 0,
+  "posts_failed": 0,
+  "total_requests": 2
+}

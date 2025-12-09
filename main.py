@@ -263,7 +263,7 @@ class InstagramAnalyticsScraper:
         except Exception as e:
             return f"Unknown (Error: {str(e)})"
     
-    def scrape_profile(self, username, max_posts=50, delay_between_posts=2):
+    def scrape_profile(self, username, max_posts=50, delay_between_posts=2, auto_continue=False):
         """
         Main scraping function - extracts all analytics data
         
@@ -271,6 +271,7 @@ class InstagramAnalyticsScraper:
             username: Instagram username to scrape
             max_posts: Maximum number of recent posts to analyze (can be 100+)
             delay_between_posts: Seconds to wait between post fetches (2-4 recommended)
+            auto_continue: If True, skip interactive prompt when not logged in (for Streamlit deployment)
         
         Returns:
             dict: Complete analytics data
@@ -284,10 +285,15 @@ class InstagramAnalyticsScraper:
             if not self.loader.context.username:
                 print("\n⚠️  WARNING: Not logged in! This may fail with 401 errors.")
                 print("💡 Please use scraper.login('username', 'password') before scraping.")
-                response = input("Continue anyway? (y/n): ").strip().lower()
-                if response != 'y':
-                    print("❌ Scraping cancelled. Please login first.")
-                    return None
+                
+                # If auto_continue is True (Streamlit mode), skip the prompt
+                if auto_continue:
+                    print("⚠️  Continuing without login (auto mode)...")
+                else:
+                    response = input("Continue anyway? (y/n): ").strip().lower()
+                    if response != 'y':
+                        print("❌ Scraping cancelled. Please login first.")
+                        return None
             
             # Load profile
             try:
